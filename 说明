@@ -1,0 +1,4 @@
+该项目主要是基于android RecyclerView的一个数据绑定的优化，优化方面有两点：
+
+   adapter的逻辑代码剥离，即只需要使用者专注于自己的逻辑代码；
+   adapter的多viewtype优化，简单的一句addViewtype即可添加需要的viewtype。
